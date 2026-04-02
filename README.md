@@ -12,7 +12,7 @@ Unb1ok is a "sliding block" puzzle game where you drag blocks on a 6×6 board to
 
 ## History
 
-**2010** — Originally written in C++ for Windows by Vadim Kuras. Built on a custom mini 3D engine (`vEngine`) using the Win32 API, legacy OpenGL fixed-function pipeline, GLU, and OpenAL 1.1 for audio. Textures and levels were packed into ZIP files embedded as Win32 resources. The game featured a skybox, textured crate blocks, an orbiting 3D camera, and mouse-based dragging with OpenGL selection-mode picking (`glRenderMode(GL_SELECT)`).
+**2010** — Originally written in C++ for Windows. Built on a custom mini 3D engine (`vEngine`) using the Win32 API, legacy OpenGL fixed-function pipeline, GLU, and OpenAL 1.1 for audio. Textures and levels were packed into ZIP files embedded as Win32 resources. The game featured a skybox, textured crate blocks, an orbiting 3D camera, and mouse-based dragging with OpenGL selection-mode picking (`glRenderMode(GL_SELECT)`).
 
 **2017** — Published on GitHub under the MIT license.
 
